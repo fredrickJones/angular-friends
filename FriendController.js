@@ -6,8 +6,6 @@ var app = angular.module('facebookFriends');
 
 
 app.controller('FriendController', function($scope) {
-	// var attrSort = ;
-	// var order = 
 	$scope.friends = [
 	    {
 	        "name": "Preston McNeil",
